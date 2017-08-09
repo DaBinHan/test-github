@@ -26,4 +26,8 @@ public class Calculator{
     return result;
   }
 
+  private static int multi(int a, int b){
+    return a * b;
+  }
+
 }
