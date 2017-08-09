@@ -31,7 +31,7 @@ public class Calculator{
   }
 
   private static int division(int a, int b){
-    return a / b;
+    return a / b; // Change division method at division branch
   }
 
 }
